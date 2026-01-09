@@ -1239,3 +1239,6 @@ timestamp,provider,model,technique,latency_ms,input_tokens_est,context_tokens_es
 2026-01-09T20:31:05.134716,openai,gpt-4o-mini,tot_strategy,19363,978,0,981,981,687,1668,0,0,False,~$0.000559,
 2026-01-09T21:01:50.004200,openai,gpt-4o-mini,tot_strategy,15116,978,0,981,981,681,1662,0,0,False,~$0.000556,
 2026-01-09T21:02:59.374033,openai,gpt-4o-mini,tot_strategy,20156,978,0,981,981,872,1853,0,0,False,~$0.000670,
+2026-01-09T22:09:31.424451,openai,gpt-4o-mini,budget_keeper_truncate,4775,578,0,581,581,42,623,0,0,False,~$0.000112,
+2026-01-09T22:11:56.235037,openai,gpt-4o-mini,budget_keeper_truncate,2861,578,0,581,581,42,623,0,0,False,~$0.000112,
+2026-01-09T22:12:11.331570,openai,gpt-4o-mini,budget_keeper_truncate,2531,578,0,581,581,55,636,0,0,False,~$0.000120,
